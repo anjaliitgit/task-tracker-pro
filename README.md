@@ -97,5 +97,4 @@ PUT /api/tasks/:id
 DELETE /api/tasks/:id
 
 ## Author
-
-Sulekha Singh
+Anjali Yadav
